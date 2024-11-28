@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Ravi Proença!
 
-<!--
-**raviproenca/raviproenca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Information Systems** student in the **4th semester** at **Universidade Federal de Sergipe - UFS**.
+- Intern at the **State Department of Education of Sergipe - SEDUC/SE**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Tech Stack**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,express,react)](https://skillicons.dev)
+
+**Ferramentas**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,firebase)](https://skillicons.dev)
+
+---
+
+![RaviProenca GitHub stats](https://github-readme-stats.vercel.app/api?username=raviproenca&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&langs_count=8&theme=tokyonight)
+#### Contact
+
+<a href="https://www.linkedin.com/in/raviproenca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
