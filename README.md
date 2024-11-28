@@ -1,6 +1,6 @@
 # Hello, I'm Ravi Proença!
 
-- **Information Systems** student in the **4th semester** at **Universidade Federal de Sergipe - UFS**.
+- **Information Systems** student in the **4th semester** at **Federal University of Sergipe - UFS**.
 - Intern at the **State Department of Education of Sergipe - SEDUC/SE**.
 
 
