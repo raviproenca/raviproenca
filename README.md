@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react,java,c#)](https://skillicons.dev)
 
-**Ferramentas**
+**Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,postman)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongo,firebase)](https://skillicons.dev)
