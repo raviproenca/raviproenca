@@ -8,11 +8,11 @@
 
 **Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,express,react,java,c#)](https://skillicons.dev)
 
 **Ferramentas**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,intellij,postman)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongo,firebase)](https://skillicons.dev)
 
 ---
