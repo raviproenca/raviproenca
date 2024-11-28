@@ -12,7 +12,7 @@
 
 **Ferramentas**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,intellij,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,postman)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongo,firebase)](https://skillicons.dev)
 
 ---
