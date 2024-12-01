@@ -1,7 +1,7 @@
 # Hello, I'm Ravi Proença!
 
 - **Information Systems** student in the **4th semester** at **Federal University of Sergipe - UFS**.
-- Intern at the **Innovation Center of the Coordination of Distance Education, Training and Educational Technologies - CEFOR - SEDUC/SE**.
+- Intern at the **Innovation Center of the Coordination of Distance Education, Training and Educational Technologies - CEFOR.**.
   
 
 
