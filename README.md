@@ -13,7 +13,7 @@
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,nodejs,postman)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongo,firebase)](https://skillicons.dev)
 
 ---
