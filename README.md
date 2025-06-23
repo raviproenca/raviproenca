@@ -1,19 +1,23 @@
 # Hello, I'm Ravi Proença!
 
-- **Information Systems** student in the **4th semester** at **Federal University of Sergipe - UFS**.
+- **Information Systems** student in the **5th semester** at **Federal University of Sergipe - UFS**.
 - Intern at the **Innovation Center of the Coordination of Distance Education, Training and Educational Technologies - CEFOR/SEDUC/SE**.
   
 
 
 ---
 
-**Tech Stack**
+**Front-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,dart,postgresql,mongo,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
-**Tools**
+**Back-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,nodejs,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi)](https://skillicons.dev)
+
+**Database Stack**
+
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,aws)](https://skillicons.dev)
 
 ---
 
