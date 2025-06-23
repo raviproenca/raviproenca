@@ -9,12 +9,11 @@
 
 **Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,express,react,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,dart,postgresql,mongo,aws)](https://skillicons.dev)
 
 **Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,nodejs,postman)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongo,firebase)](https://skillicons.dev)
 
 ---
 
