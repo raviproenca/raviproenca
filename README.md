@@ -17,7 +17,7 @@
 
 **Database Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,aws,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,aws,gcp)](https://skillicons.dev)
 
 ---
 
