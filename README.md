@@ -9,7 +9,7 @@
 
 **Front-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swing)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
 **Back-end Stack**
 
