@@ -13,11 +13,15 @@
 
 **Back-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi)](https://skillicons.dev)
 
 **Database Stack**
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,aws,gcp)](https://skillicons.dev)
+
+**No Code**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,flutterflow)](https://skillicons.dev)
 
 ---
 
