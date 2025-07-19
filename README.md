@@ -9,11 +9,11 @@
 
 **Front-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart)](https://skillicons.dev)
 
 **Back-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,node)](https://skillicons.dev)
 
 **Database Stack**
 
