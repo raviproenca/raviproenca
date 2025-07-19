@@ -9,7 +9,7 @@
 
 **Front-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,dart,flutter)](https://skillicons.dev)
 
 **Back-end Stack**
 
@@ -18,10 +18,6 @@
 **Database Stack**
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,aws,gcp)](https://skillicons.dev)
-
-**No Code**
-
-[![My Skills](https://skillicons.dev/icons?i=figma,flutterflow)](https://skillicons.dev)
 
 ---
 
