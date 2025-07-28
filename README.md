@@ -13,7 +13,7 @@
 
 **Back-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,nodejs)](https://skillicons.dev)
 
 **Database Stack**
 
