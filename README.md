@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,nodejs)](https://skillicons.dev)
 
-**Database Stack**
+**Database and DevOps**
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,aws,gcp)](https://skillicons.dev)
 
