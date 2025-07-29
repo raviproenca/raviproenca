@@ -2,8 +2,10 @@
 
 - **Information Systems** student in the **5th semester** at **Federal University of Sergipe - UFS**.
 - Intern at the **Innovation Center of the Coordination of Distance Education, Training and Educational Technologies - CEFOR/SEDUC/SE**.
-  
 
+---
+  
+[![raviproenca github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raviproenca&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
