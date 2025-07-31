@@ -17,7 +17,7 @@
 
 **Back-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,axios,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,express)](https://skillicons.dev)
 
 **Database, DevOps and Tools**
 
