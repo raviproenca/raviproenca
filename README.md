@@ -5,7 +5,7 @@
 
 ---
   
-[![raviproenca github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raviproenca&theme=gruvbox)]
+[![raviproenca github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raviproenca&theme=dracula)]
 
 ---
 
@@ -23,9 +23,9 @@
 
 ---
 
-![RaviProenca GitHub stats](https://github-readme-stats.vercel.app/api?username=raviproenca&show_icons=true&theme=gruvbox)
+![RaviProenca GitHub stats](https://github-readme-stats.vercel.app/api?username=raviproenca&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=donut-vertical&theme=gruvbox&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=donut-vertical&theme=dracula&langs_count=8)
 #### Contact
 
 <a href="https://www.linkedin.com/in/raviproenca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
