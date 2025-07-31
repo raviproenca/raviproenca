@@ -1,13 +1,13 @@
 # Ravi Proença!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4B0082&center=false&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I+am+Ravi+Proenca+!;Welcome+to+my+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=800080&center=false&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I+am+Ravi+Proença!;Welcome+to+my+profile!" alt="Typing SVG" />
 
 - **Information Systems** student in the **5th semester** at **Federal University of Sergipe - UFS**.
 - Intern at the **Innovation Center of the Coordination of Distance Education, Training and Educational Technologies - CEFOR/SEDUC/SE**.
 
 ---
   
-![raviproenca github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raviproenca&theme=dracula)
+[![RaviProenca github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raviproenca&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -17,11 +17,11 @@
 
 **Back-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,axios,express)](https://skillicons.dev)
 
-**Database and DevOps**
+**Database, DevOps and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,aws,gcp,postman)](https://skillicons.dev)
 
 ---
 
