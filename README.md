@@ -17,14 +17,14 @@
 
 **Back-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,express)](https://skillicons.dev) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=504) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raviproenca&show_icons=true&theme=gotham&card_width=504)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,express)](https://skillicons.dev)
 
 **Database, DevOps and Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,aws,gcp,postman)](https://skillicons.dev)
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=504) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raviproenca&show_icons=true&theme=gotham&card_width=503)
 
 #### Contact
 
