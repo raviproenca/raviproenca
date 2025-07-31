@@ -25,7 +25,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=500) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raviproenca&show_icons=true&theme=gotham&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=505) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raviproenca&show_icons=true&theme=gotham&card_width=505)
 #### Contact
 
 <a href="https://www.linkedin.com/in/raviproenca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
