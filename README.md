@@ -17,7 +17,7 @@
 
 **Back-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,express)](https://skillicons.dev) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=504) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raviproenca&show_icons=true&theme=gotham&card_width=504)
 
 **Database, DevOps and Tools**
 
@@ -25,7 +25,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=504&langs_count=15) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raviproenca&show_icons=true&theme=gotham&card_width=503)
+
 #### Contact
 
 <a href="https://www.linkedin.com/in/raviproenca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
