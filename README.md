@@ -1,4 +1,4 @@
-# Ravi Proença!
+# Ravi Proença
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=800080&center=false&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I+am+Ravi+Proença!;Welcome+to+my+profile!" alt="Typing SVG" />
 
