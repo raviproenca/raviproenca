@@ -25,7 +25,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=donut-vertical&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=donut-vertical&theme=gotham&langs_count=8)
 #### Contact
 
 <a href="https://www.linkedin.com/in/raviproenca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
