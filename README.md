@@ -13,7 +13,7 @@
 
 **Front-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,quasar,dart,flutter)](https://skillicons.dev)
 
 **Back-end Stack**
 
