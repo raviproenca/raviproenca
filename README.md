@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=60&section=header&color=0:004147,100:009ead"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=60&section=header&animation=blinking&color=0:004147,100:009ead"/>
 
 # Ravi Proença
 
