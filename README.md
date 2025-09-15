@@ -1,8 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&color=0:004147,100:009ead"/>
+
 # Ravi Proença
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=48D1CC&center=false&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
 
-- **Information Systems** student in the **5th semester** at **Federal University of Sergipe - UFS**.
+- **Information Systems** student in the **6th semester** at **Federal University of Sergipe - UFS**.
 - Intern at the **Innovation Center of the Coordination of Distance Education, Training and Educational Technologies - CEFOR/SEDUC/SE**.
 
 ---
@@ -34,3 +36,4 @@
 
 <a href="https://www.linkedin.com/in/raviproenca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+<img width=100% src="<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&color=0:004147,100:009ead"/>"/>
