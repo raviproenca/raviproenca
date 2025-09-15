@@ -36,4 +36,4 @@
 
 <a href="https://www.linkedin.com/in/raviproenca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<img width=100% src="<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&color=0:004147,100:009ead"/>"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&color=0:004147,100:009ead"/>
