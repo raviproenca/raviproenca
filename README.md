@@ -1,19 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=0:002c30,100:098692"/>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h1 style="margin: 0;">Ravi Proença</h1>
-    </td>
-    <td width="50%" align="right">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" />
-      </a>
-    </td>
-  </tr>
-</table>
+# Ravi Proença
 
 <br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=48D1CC&center=false&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
 
