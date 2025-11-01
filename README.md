@@ -35,7 +35,7 @@
 
 ---
                                                                                                                                                                                                  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=512&langs_count=8) [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=1024&langs_count=8)
 
 ---
 
