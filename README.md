@@ -13,7 +13,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=raviproenca&theme=gotham&border_radius=5&mode=weekly&card_width=1024&card_height=300)](https://git.io/streak-stats)
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" />
+<img align="right" width=500 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=1024&langs_count=10)
 
