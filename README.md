@@ -4,9 +4,9 @@
 
 <br>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" />
-
 <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=48D1CC&center=false&vCenter=false&width=434&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
+
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" />
 
 - **Information Systems** student at **Federal University of Sergipe - UFS**.
 - Intern at the **Innovation Center of the Coordination of Distance Education, Training and Educational Technologies - CEFOR/SEDUC/SE**.
