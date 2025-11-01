@@ -4,11 +4,20 @@
 
 <br>
 
-<div style="width: 100%; display: block;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=48D1CC&center=false&vCenter=true&width=434&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" style="float: left;" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" style="float: right;" />
-</div>
+  <tr style="border: none;">
+    
+    <td style="border: none;" valign="top">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=48D1CC&center=false&vCenter=true&width=434&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
+    </td>
+    
+    <td style="border: none;" align="right" valign="top">
+      <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" />
+    </td>
+    
+  </tr>
+</table>
 
 - **Information Systems** student at **Federal University of Sergipe - UFS**.
 - Intern at the **Innovation Center of the Coordination of Distance Education, Training and Educational Technologies - CEFOR/SEDUC/SE**.
