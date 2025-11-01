@@ -11,7 +11,7 @@
 
 ---
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar&rank=S)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raviproenca&theme=gotham&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
