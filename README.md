@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" />
+<img align="right" width=350 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" />
 
 <br>
 
