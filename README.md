@@ -11,7 +11,7 @@
 
 ---
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=raviproenca&theme=gotham&border_radius=5&mode=weekly&card_width=1024&card_height=300)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raviproenca&theme=gotham&border_radius=5&mode=weekly&card_width=1024&card_height=300&hide_current_streak=true)](https://git.io/streak-stats)
 
 ---
 
@@ -35,7 +35,7 @@
 
 ---
                                                                                                                                                                                                  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=512&langs_count=8) [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage,LongTimeUser)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=512&langs_count=8) [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
