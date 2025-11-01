@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=0:002c30,100:098692"/>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1>Ravi Proença</h1>
+  <span style="font-size: 2em; font-weight: bold;">Ravi Proença</span>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="trophy" />
   </a>
