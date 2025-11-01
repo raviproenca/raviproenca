@@ -1,15 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=0:002c30,100:098692"/>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <span style="font-size: 2.5em; font-weight: bold; vertical-align: middle;">Ravi Proença</span>
-    </td>
-    <td align="right">
-      <img style="vertical-align: middle;" src="https://github-profile-trophy.vercel.app/?username=raviproenca&theme=onedark&title=MultiLanguage" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
+<span style="font-size: 2.5em; font-weight: bold; vertical-align: middle;">Ravi Proença</span>
+<img style="vertical-align: middle; margin-left: 10px;" src="https://github-profile-trophy.vercel.app/?username=raviproenca&theme=onedark&title=MultiLanguage" alt="GitHub Trophies" />
 
 <br>
 
