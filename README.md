@@ -11,7 +11,7 @@
 
 ---
   
-[![RaviProenca github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raviproenca&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RaviProenca github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raviproenca&theme=gotham&days=90)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
