@@ -11,7 +11,7 @@
 
 ---
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=raviproenca&theme=gotham&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raviproenca&theme=gotham&hide_border=true&mode=weekly&card_width=1024&card_height=220)](https://git.io/streak-stats)
 
 ---
 
