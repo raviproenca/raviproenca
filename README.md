@@ -4,6 +4,8 @@
 
 <br>
 
+<img align="right" width=500 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=48D1CC&center=false&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
 
 - **Information Systems** student at **Federal University of Sergipe - UFS**.
@@ -12,8 +14,6 @@
 ---
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=raviproenca&theme=gotham&border_radius=5&mode=weekly&card_width=1024&card_height=300)](https://git.io/streak-stats)
-
-<img align="right" width=500 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage" alt="Trophy" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=1024&langs_count=10)
 
