@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=0:002c30,100:098692"/>
 
-<div align="center">
+<div align="center" display="flex" justify-content="justify-between">
   <h1 style="display: inline-block;">Ravi Proença</h1>
   <img style="display: inline-block; vertical-align: middle; margin-left: 10px;" src="https://github-profile-trophy.vercel.app/?username=raviproenca&theme=onedark&title=MultiLanguage" alt="GitHub Trophies" />
 </div>
