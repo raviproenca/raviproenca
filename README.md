@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=0:002c30,100:098692"/>
 
-# Ravi Proença
+# Ravi Proença [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&title=MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
@@ -12,6 +12,10 @@
 ---
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=raviproenca&theme=gotham&border_radius=5&mode=weekly&card_width=1024&card_height=300)](https://git.io/streak-stats)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=1024&langs_count=8)
 
 ---
 
@@ -33,11 +37,7 @@
 
 <br>
 
----
-                                                                                                                                                                                                 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=1024&langs_count=8)
-
----
+---                                                                                                                                                                                            
 
 #### Contact
 
