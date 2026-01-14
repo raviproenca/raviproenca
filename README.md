@@ -10,12 +10,6 @@
 - Fullstack Developer at the **Sergipe Technology Park**.
 
 ---
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=raviproenca&theme=gotham&mode=weekly&card_width=1024&card_height=300)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviproenca&layout=compact&theme=gotham&card_width=1024&langs_count=10)
-
----
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
