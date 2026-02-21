@@ -17,15 +17,15 @@
 
 **Front-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vuejs,quasar,dart,flutter)](https://skillicons.dev)
 
 **Back-end Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts,express)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts)](https://skillicons.dev)  
                                                                                                                                                                                        
 **Database, DevOps and Tools**    
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,aws,gcp,postman)](https://skillicons.dev)       
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongo,postman,docker,aws)](https://skillicons.dev)       
 
 <br>
 
